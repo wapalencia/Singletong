@@ -1,0 +1,7 @@
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\bin\Debug\SingletonMutex.exe.config
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\bin\Debug\SingletonMutex.exe
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\bin\Debug\SingletonMutex.pdb
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\obj\Debug\SingletonMutex.csproj.CoreCompileInputs.cache
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\obj\Debug\SingletonMutex.exe
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\obj\Debug\SingletonMutex.pdb
+C:\Users\wpalencia\source\repos\SingletonMutex\SingletonMutex\obj\Debug\SingletonMutex.csproj.AssemblyReference.cache
